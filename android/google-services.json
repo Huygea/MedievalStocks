@@ -1,0 +1,45 @@
+{
+  "project_info": {
+    "project_number": "241806857210",
+    "firebase_url": "https://medievalstocks.firebaseio.com",
+    "project_id": "medievalstocks",
+    "storage_bucket": "medievalstocks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241806857210:android:deb6bb76b406f573",
+        "android_client_info": {
+          "package_name": "com.slide.a.word"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241806857210-aacbg5kr0ouj11337s30qrrglrapod7b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSj1tRNV-kzrX4jr4qhvT8meRiNlyjQpQ"
+        },
+        {
+          "current_key": "AIzaSyDSj1tRNV-kzrX4jr4qhvT8meRiNlyjQpQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
